@@ -49,15 +49,4 @@ The temperature and humidity data will be read from the DHT11 sensor and sent to
 
 Access your ThingSpeak channel to view and analyze the collected data.
 
-**Acknowledgments**
-DHT Sensor Library
-ESP8266WiFi Library
-WiFiClient Library
-ESP8266HTTPClient Library
-
-
-
-
-
-
-Regenerate response
+**Acknowledgments:** DHT Sensor Library, ESP8266WiFi Library, WiFiClient Library, ESP8266HTTPClient Library
