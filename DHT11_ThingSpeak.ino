@@ -5,10 +5,10 @@
 
 #define DHTPIN 2
 
-const char* API = "RLOG449K2FWWKMSV";
+const char* API = "API KEY";
 const char* URL = "http://api.thingspeak.com/update?api_key";
-const char* ssid = "Ohayooo";
-const char* pass = "09876543";
+const char* ssid = "wifi";
+const char* pass = "wifi_pass";
 
 DHT dht(DHTPIN, DHT11);
 
